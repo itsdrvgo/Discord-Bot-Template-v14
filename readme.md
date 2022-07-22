@@ -25,5 +25,10 @@ If you already have created your Discord Bot Application, please skip to `step 5
 10. Go to your console, write `node .` and hit enter. If you've done everything correctly, the bot should be turned on now!
 
 ## How to add my own file?
-* For any type of commands, please head over to the folder, **Commands** and create another folder inside it. **DO NOT ADD A FILE INSIDE COMMANDS FOLDER**. It should be, *Commands > Information > ping.js*. So, we've the main folder, then a category folder and then the `js` file.
+* For any type of commands, please head over to the folder, **Commands** and create another folder inside it. **DO NOT ADD A JS FILE INSIDE COMMANDS FOLDER**. It should be, *Commands > Information > ping.js*. So, we've the main folder, then a category folder and then the `js` file.
 * For any type of events, please head over to the folder, **Events** and follow the procedure of adding Commands.
+
+## Credits:
+This repository is maintained by `DragoLuca (Discord: DragoLuca#3636)`. You can contact for any help. If you want to join the latest Discord.JS v14 series on YouTube, you can [click here](https://youtube.com/DragoLucaCodes)
+
+Support DragoLuca on Ko-Fi: https://ko-fi.com/dragoluca
