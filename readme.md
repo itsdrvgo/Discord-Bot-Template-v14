@@ -14,6 +14,7 @@ If you already have created your Discord Bot Application, please skip to `step 5
 ![Setup the Bot like this](/Images/bot.png "Discord Developers Portal")
 
 You can enable the *MESSAGE INTENT* also if you want.
+
 3. Go to the **OAuth2** menu, and head over to the sub-menu called **URL Generator**. In the scopes, please check on *Bot* & *applications.commands*. Underneath inside the last box, choose your permissions and copy the URL that is generated below.
 4. Paste the url in another tab and invite the bot to your server.
 5. After inviting the bot, open this project in your IDE, and write `npm i` in the Console/Shell and hit enter. For VS Code users, hit `Ctrl + J` to open up the terminal and then run this command. This will install all the required packages!
